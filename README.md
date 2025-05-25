@@ -1,2 +1,1 @@
-# PCA
-Image anamoly detection
+
